@@ -1,0 +1,1 @@
+SUBDIRS=mpistochsim mpidcmsim mpibatchsim

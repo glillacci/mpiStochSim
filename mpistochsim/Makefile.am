@@ -1,0 +1,3 @@
+bin_PROGRAMS=mpistochsim
+mpistochsim_SOURCES=mpiStochSim.c
+
